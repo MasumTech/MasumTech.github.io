@@ -1,12 +1,12 @@
-# ジート ゼットエイチ コンドカーのポートフォリオ
+# Portfolio of Md Masum Reza
 
-## URL
-https://jeet-khondker.github.io/
+## URLs
+https://masumtech.github.io/
 
 ![Screenshot](screenshot.png)
 
-## 使用されたプログラミング言語
+## Programming Language Used
 HTML5, CSS3, JavaScript
 
-### デプロイメント
-Github Pages
+### Deployment
+GitHub Pages
